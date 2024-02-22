@@ -80,4 +80,4 @@ Greetings! 🌟 Tech enthusiast from a proud farmer family, I embarked on a tran
 
 ## Leetcode Stats:
 
-![LeetCode Stats](https://leetcode.card.workers.dev/govendrasahu01?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/govendrasahu01?theme=default&font=baloo&extension=null)
