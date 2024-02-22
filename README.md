@@ -6,27 +6,27 @@
 
 <p>Greetings! 🌟 Tech enthusiast from a proud farmer family, I embarked on a transformative journey in January 2022, earning a web development certification. Proficient in Data Structures and Algorithms, I'm honing Full Stack Web Development skills in the Prepleaf by Masai School Career Accelerator Program. Seeking opportunities as an Algorithm Development Intern, I bring a tech prowess to contribute meaningfully. Let's connect and explore the possibilities in the ever-evolving tech landscape! 🌐</p>
 
-<img src="images/programmer.gif" alt="alsiam" />
+<img src="images/programmer.gif" width="50%" height="auto" alt="Govendra" align="center" />
 
 <br>
 
 <p align="center">
  <a href="https://govendrasahu01.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Govendra" />
  </a>
  <a href="https://linkedin.com/in/govendrasahu01" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Govendra"/>
  </a>
  <a href="https://leetcode.com/govendrasahu01/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-20BEFF?&style=for-the-badge&logo=Leetcode&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Leetcode-20BEFF?&style=for-the-badge&logo=Leetcode&logoColor=white" alt="Govendra"  />
   </a> 
  <a href="https://instagram.com/govendrasahu01" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Govendra" />
  </a> 
 </p>
 <br />
 
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/MERN stack-fe4164?style=for-the-badge&logo=react&logoColor=white" alt="alsiam" />
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/MERN stack-fe4164?style=for-the-badge&logo=react&logoColor=white" alt="Govendra" />
 
 - 💬 Ask me about **Data Structure and Algorithm**
 
