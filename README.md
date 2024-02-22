@@ -4,9 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govendrasahu01&label=Profile%20views&color=0e75b6&style=flat" alt="govendrasahu01" /> </p>
 
 
+<p align="center">
+  <img src="images/programmer.gif" width="25%" height="auto" alt="Govendra"/>
+</p>
+
+
 <p>Greetings! 🌟 Tech enthusiast from a proud farmer family, I embarked on a transformative journey in January 2022, earning a web development certification. Proficient in Data Structures and Algorithms, I'm honing Full Stack Web Development skills in the Prepleaf by Masai School Career Accelerator Program. Seeking opportunities as an Algorithm Development Intern, I bring a tech prowess to contribute meaningfully. Let's connect and explore the possibilities in the ever-evolving tech landscape! 🌐</p>
 
-<img src="images/programmer.gif" width="50%" height="auto" alt="Govendra" align="center" />
 
 <br>
 
